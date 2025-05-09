@@ -10,11 +10,10 @@ location: "Beijing, China"
 
 Responsible for teaching the basic knowledge of mathematics
 
-Heading 1
+Length of service
 ======
+2021.09-2022.12
 
-Heading 2
+Content of work
 ======
-
-Heading 3
-======
+As a tutor of college students, I explained the basic principles of mathematics and adolescent problem communication for primary and secondary school students.
