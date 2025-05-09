@@ -2,7 +2,7 @@
 title: "Employing an LSTM model with a self-attention mechanism to model variations in running pace"
 collection: publications
 category: manuscripts
-permalink: https://www.istaer.online/index.php/Home/article/view/No.2508
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'In this paper, a model combining Long Short-Term Memory (LSTM) network and self-attention mechanism is proposed.'
 date: 2025-02-21
 venue: 'International Scientific Technical and Economic Research'
