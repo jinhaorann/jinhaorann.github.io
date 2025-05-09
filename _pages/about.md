@@ -18,6 +18,8 @@ I am interested in the intersection of deep learning and dynamical systems and w
 
 Updates
 ======
+Here is my latest update
+
 1. Sept. 2020 | I started studying in Northeast Normal University
 2. Oct.  2021 | I started working for Zhuke (Beijing) Agricultural Technology Co., LTD
 3. Sept. 2023 | I was eligible for the postgraduate recommendation
@@ -27,6 +29,8 @@ Updates
 
 Research project
 ======
+Here is my research project
+
 1. 2022.11 - 2023.11 | "Engine fault diagnosis and tuning based on fault tree and Bayesian network", 中央高校基本科研业务专项资金本科生重点培育项目
 2. 2024.10 - 2025.12 | "Multiscale wave Theory and Intelligent Computation for complex XXXX", JKW重大专项
 
