@@ -26,11 +26,6 @@ Work experience
   * Zhuke (Beijing) Agricultural Technology Co., LTD
   * Duties included: Responsible for teaching the basic knowledge of mathematics
   * Supervisor: Leixin Wang
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
