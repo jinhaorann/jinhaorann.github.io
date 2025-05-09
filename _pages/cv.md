@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Applied mathematics, Northeast Normal University, 2030 (expected)
+* Ph.D in Applied mathematics, Northeast Normal University, 2029 (expected)
 * M.S. in Applied mathematics, Northeast Normal University, 2026 (expected)
 * B.S. in Mathematics and Applied mathematics, Northeast Normal University, 2024
 
