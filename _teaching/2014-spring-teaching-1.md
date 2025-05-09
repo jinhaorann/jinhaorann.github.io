@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Lecturer"
 collection: teaching
-type: "Undergraduate course"
+type: "Part-time lecturer"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Zhuke (Beijing) Agricultural Technology Co., LTD"
+date: 2021-09-15
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Responsible for teaching the basic knowledge of mathematics
 
 Heading 1
 ======
